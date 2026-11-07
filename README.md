@@ -49,39 +49,6 @@ It demonstrates practical implementation of React Hooks, API integration, dynami
 | Git & GitHub | Version control |
 | Vercel | Deployment and hosting |
 
-## ⚙️ Installation & Setup
-
-Follow these steps to run the project locally.
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/UfaqFatima786/Soft-Gallery.git
-```
-
-**2. Navigate to the project directory**
-
-```bash
-cd Soft-Gallery
-```
-
-**3. Install dependencies**
-
-```bash
-npm install
-```
-
-**4. Start the development server**
-
-```bash
-npm run dev
-```
-
-**5. Open in your browser**
-
-```text
-http://localhost:5173
-```
 
 ## 🌐 API Integration
 
@@ -102,24 +69,7 @@ The API provides image information such as:
 
 Axios is used to make HTTP GET requests, while React's `useEffect` and `useState` manage API data and page updates.
 
-## 📂 Project Structure
 
-```text
-Soft-Gallery/
-│
-├── public/
-│
-├── src/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-│
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
-└── README.md
-```
 
 ## 🎯 Learning Outcomes
 
